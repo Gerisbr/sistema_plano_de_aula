@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to left top, #35a3b6, #296ef8);
+    background-repeat: no-repeat;
+}
+
+*{
+    margin: 52;
+    padding: 52;
+      
+}
+
+.container{
+    width: 800px;
+    margin: 50px auto;
+
+   }
+
+   .imagem{
+    min-height: 15px;
+min-width: 15px;
+    
+   }
+  
